@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_24f77982d5d8c36c6c92ca669435642d977f5d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_306e4511272fff5c2ae40536062cc86d8c6bdea0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\f4d283dca300575e3a9c23709013f265f7c063cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_562e7fc5cbcc660106f6ec3407f8faf74324af44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\39cbf57a387d75d8a9001810184e1eaf534280c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91a54c0f12a56eaa33e87b8993e20d8605124dbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\3ba17b6a32928e759b8ad10e7fd529e0614259c2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_df11caf1adcb18f231faeb1d7dc1e61e6a01bbe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2818edaa78fb7c8ff1d4d8a556c34863d3322244">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_631c860e10a411fbd0d62d4ceb8247de10a5ac05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\419386f583f18116cc90712fd30cffac5fe30820\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d58c384845c21080bb64224b41b3806427fc8c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\f4d283dca300575e3a9c23709013f265f7c063cc\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3cf86ecfc26b7354402adf2aeb7f984d76ff13e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidstudio\sdk-for-windows\sdk-for-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_797c898145317a15df629ec33b85541ed12a6d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\202fcd80bc2f9ec4f4acb493e25bcca54b1c8758\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e3bb750c8a03bb934cbae198a5fd21e31c29a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\6b9b81fc1cc78dee527c5ef9bd988e124dd2f777\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_419d6f957bca3f47f10687c9d1f98a017d2ae0bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2fe5a7711a6f05f4691635f69b173a01e50e0b76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\93df279f32d1a67f1c6d684fa5285d8b3e355edd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_165528756fcaa8e04e4d4db1148d6ee86be374b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9ec9265b8d9f4f743990ea27e706154e6e276d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_4a676d7d46e670ecf043d0c5130ae5c5e444ccad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_18c1f313fdf7a4f82651a5e8d81a9361328b2118.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\93df279f32d1a67f1c6d684fa5285d8b3e355edd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a718cbe630bb49e59285eeb5b4bcbff55976222f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_efd312785485ac6e8d32d35a2242f11271fa7968.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidstudio\sdk-for-windows\sdk-for-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_65fc1ec183ebefacce3e9a0a7e1015be579afee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_4e05571cddbaa0ee6b485fb414592c682e0c2028.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_159e6e841b488f9077d0bb8ed9d1671b5615f5ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8dd01b6cd37d417cda3902e34db2be3b9df8b85c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\ca8f211881cfb99a1c93b7bcbffdaadf566f4529\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbebbbacc9298f5bc78c0015e92d93abe72eb657\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_b3938d35f2e9262b0a8ff24fe200c30aecbe3ded.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\002090904366e547eced9e2feea1310404cd5c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcce49ec591d13520c05ea672a1e507b35c3d295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\05b4dc39478c133117e94f8349747870c48bb869\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_51067a7a5fd7cd3c6a665e6cc9820460b653827e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5a35712cbd084b7efd291a596ebc6b6006f252b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\7739da28be7818dde4c0c81a9b3e5464857ff8ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a66b5b9bd2d918fae47124e304c12773880be5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\05b4dc39478c133117e94f8349747870c48bb869\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5902f3efda6c5a9ac5b85b57e0b0abbdfa95829\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7c5b9358bb0fc685dae63f72e756c74f1382e5dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\419386f583f18116cc90712fd30cffac5fe30820\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a9df0f2ab42ad844724b2dd69289cf0c68768188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\6b9baf73b78bbd27c30105b37a103ce79fff8796\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f50a39f6eaecc22f1167c9a56e3b47520dae7c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\androidstudio\sdk-for-windows\sdk-for-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_65fc1ec183ebefacce3e9a0a7e1015be579afee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_32afa063c465a2401bda0aa115fa7e1cbe77a31d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_08e1b21b88180eca012b72b7f4d5970fadd9714a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\.android\build-cache\3ba17b6a32928e759b8ad10e7fd529e0614259c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Zheng\Desktop\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31a33ec626b01c574e97551eb6dbbcc11adc3ecd\classes.dex" />
+    </item>
+
+</items>
